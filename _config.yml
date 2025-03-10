@@ -23,24 +23,18 @@ email: mremoe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Founder, surfer, engineer, and a whole lot of other things.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cestbalez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://magnusremoe.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: magnusremoe
 github_username:  cestbalez
 linkedin_username:  magnusremoe
 logo: assets/images/logo.webp
-read_time: true
-words_per_minute: 200
+
+# Navigation settings
 search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
-author:
-  name: Magnus S. Remøe
-  twitter: magnusremoe
-  github: cestbalez
-  linkedin: magnusremoe
-  picture: /assets/images/avatar.jpg
-
+# Footer settings
 footer_links:
   - title: GitHub
     url: https://github.com/cestbalez
@@ -51,19 +45,28 @@ footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/magnusremoe/
     icon: fab fa-linkedin
-
 copyright: "This site is made with <3 by me, *straight from the heart.*"
 
+# Post settings
+author:
+  name: Magnus S. Remøe
+  twitter: magnusremoe
+  github: cestbalez
+  linkedin: magnusremoe
+  picture: /assets/images/avatar.jpg
+read_time: true
+words_per_minute: 200
+
 # Style settings
-#skin: "/assets/css/skins/dark.css"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
+# skin: "/assets/css/skins/dark.css"
 
 # Build settings
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
