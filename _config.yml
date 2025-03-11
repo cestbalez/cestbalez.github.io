@@ -30,6 +30,7 @@ github_username:  cestbalez
 linkedin_username:  magnusremoe
 logo: assets/images/logo.webp
 google_analytics: G-K8NSP01P8S
+timezone: "Asia/Singapore"
 
 # Navigation settings
 search_full_content: true
@@ -70,8 +71,23 @@ google_fonts:
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
+  - jekyll-compose
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+jekyll_compose:
+  default_front_matter:
+    post:
+      last_modified_at: 
+      permalink: 
+      description:
+      image:
+      published: true
+      sitemap: true
+      excerpt_separator: <!--more-->
+      categories:
+      tags:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
