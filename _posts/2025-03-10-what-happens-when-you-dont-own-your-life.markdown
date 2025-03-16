@@ -11,6 +11,9 @@ tags:
   - authenticity
   - decision-making
   - fear of judgment
+image:
+  facebook: /assets/images/jakub-kriz.jpg
+  caption: "What Happens When You Don’t Own Your Life"
 ---
 
 For as long as I can remember, I’ve struggled to put myself out there and express myself in public. This has been the case in my personal life, e.g. when being around a lot of people, I’ve tended to mute myself and let others take the stage. However, it has severely affected my professional life too. While I know I have a strong background and capacity, I haven’t been able to take advantage of it due to my lack of self-confidence and public presence. The last year or two, I’ve come to some important realizations around where this behavior comes from, and this has finally started to set me on a new course. These realizations are also what has given birth to this blog, which previously would have been unthinkable.
