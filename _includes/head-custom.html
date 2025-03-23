@@ -1,0 +1,16 @@
+<!-- og image doesn't display unless added to the page. This will work when not added to the page. -->
+
+{% if page.open_graph.image.path %}
+<meta property="og:image" content="{{ site.url }}{{ page.open_graph.image.path }}" />
+<meta property="twitter:image" content="{{ site.url }}{{ page.open_graph.image.path }}" />
+{% endif %}
+{% if page.open_graph.image.height %}
+<meta property="og:image:height" content="{{ page.open_graph.image.height }}" />
+{% endif %}
+{% if page.open_graph.image.width %}
+<meta property="og:image:width" content="{{ page.open_graph.image.width }}" />
+{% endif %}
+{% if page.open_graph.image.caption %}
+<meta property="og:image:alt" content="{{ page.open_graph.image.caption }}" />
+<meta name="twitter:image:alt" content="{{ page.open_graph.image.caption }}" />
+{% endif %}

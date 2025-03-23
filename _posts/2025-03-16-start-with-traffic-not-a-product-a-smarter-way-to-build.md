@@ -3,6 +3,10 @@ layout: post
 title: 'Start with Traffic, Not a Product: A Smarter Way to Build?'
 date: 2025-03-16 17:45 +0800
 last_modified_at: 2025-03-16 17:45 +0800
+open_graph:
+  image:
+    path: /assets/images/derek-lee.jpg
+    caption: "Start with Traffic, Not a Product"
 categories:
   - Entrepreneurship
 tags:
