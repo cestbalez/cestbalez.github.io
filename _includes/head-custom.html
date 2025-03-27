@@ -2,7 +2,7 @@
 
 {% if page.open_graph.image.path %}
 <meta property="og:image" content="{{ site.url }}{{ page.open_graph.image.path }}" />
-<meta property="twitter:image" content="{{ site.url }}{{ page.open_graph.image.path }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ page.open_graph.image.path }}" />
 {% endif %}
 {% if page.open_graph.image.height %}
 <meta property="og:image:height" content="{{ page.open_graph.image.height }}" />
