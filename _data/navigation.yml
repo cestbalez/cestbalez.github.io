@@ -2,6 +2,10 @@
 #   url: /posts/
 # - title: Projects
 #   url: /projects/
+- title: Blog
+  url: /
+- title: Services
+  url: /services/
 - title: About
   url: /about/
 # - title: Search
