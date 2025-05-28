@@ -4,12 +4,64 @@ title: About
 permalink: /about/
 ---
 
-Hey, and welcome to my collection of rambles on life, discovering your path and making it as an entrepreneur. Here, I share my experiences — both the highs and the struggles as I build a life on my own terms.
+## About Me
 
-I'm here to share my experiences, struggles, thoughts and ideas with the world in an honest way. There’s so much value in learning from each other’s experiences, but for this to work, what we share shouldn’t be a means to an end, but rather the end itself. There's enough content out there that seems real, but which is actually just marketing in disguise. I want to challenge myself here, to be raw and free from agendas. In the past, I've struggled to find the confidence to speak my mind in public and to people I don't know very well, but this is a practice to change that.
+I'm Magnus — a technical founder, builder, and consultant helping startups ship solid software, fast. I'm currently CTO and co-founder of [Midstay](https://www.midstay.com), and I also take on selected client projects where I can add real value.
 
-We all go through tough patches in life, and if you choose a different path than most, you will likely face even more challenges. I know I have. However, someone has probably faced your current challenge, or something very similar. So if we can share the experiences with each other, we can all grow together. This is my attempt to connect with those who share my struggles and interests.
+I specialize in building clean, scalable Rails applications — from API backends to full-stack tools with Hotwire. I work best with small teams and founders who value quality, structure, and getting things done without dragging it out.
 
-I’m 38 years old and originally from Norway. I mostly grew up there, though I spent several years abroad in my childhood. This clearly shaped who I am, and the choices I've made since then. Currently, I live in Lombok, Indonesia, and I'm working on designing and crafting the optimal life for *me* here. A big part of why I'm here is because I love surfing, but it's also because it's one of the best places in the world to build and design *your* life, or rebuild, which is what I've done over the last 7 years. My background is in Materials Science and Engineering, but in 2017, I made a major life shift—leaving the rat race, moving to Indonesia, and going all in on software. I’m now the co-founder and CTO of Midstay, and I’m also exploring solopreneurship on the side.
+Originally from Norway, I now live in Lombok, Indonesia. I moved here in 2017 to reshape how I live and work — combining deep, focused software work with a more intentional lifestyle. Outside of tech, I’m into meditation, philosophy, surf, running, and systems thinking — anything that helps me live and build with more clarity.
 
-This blog is for those that want to find their own path in life. It's hard paving that way, finding who you truly are and building the life that you want. My path is focused on obtaining freedom. For me that means living wherever I want, working wherever and whenever I want, and being able to enjoy life in a way that's meaningful to *me*. If that resonates with you, this might be the place for you too.
+I write occasionally about these topics here: everything from building Rails tools to bootstrapping a business, to designing a life that works on your own terms.
+
+---
+
+## My Background
+
+I started out in Materials Science and Engineering, with an MSc and a PhD track in aluminum alloys. But after realizing academia wasn’t the path for me, I made a full pivot — moved to Indonesia in 2017 and went all in on software.
+
+I trained as a developer through a Rails-focused bootcamp and quickly moved into freelance work. After a few years building production systems as a backend engineer at a Norwegian scale-up, I co-founded Midstay — where I’ve led product and engineering ever since.
+
+I’ve worked on internal tools, SaaS platforms, automation systems, and integration-heavy backends. I’m used to taking products from idea to launch, handling both technical architecture and hands-on development.
+
+---
+
+## What I’m Focused On
+
+I currently split my time between Midstay and working with a few clients each quarter. My focus is on small, clearly scoped projects where I can deliver real impact — typically:
+
+- MVPs or internal tools with business logic and admin flows  
+- API microservices for automation, pricing, or integrations  
+- Operations-focused tools for streamlining workflows
+
+All projects come with a clear scope, async comms, and production-ready handoff.
+
+[See my services →](/services/)
+
+---
+
+## How I Work
+
+I keep things lightweight and transparent:
+
+- **Notion Project Hub** – For async updates and progress tracking  
+- **Staging App (optional)** – For validation and internal testing  
+- **Clean Handoff** – Code delivered in GitHub, with docs or Postman collections if relevant  
+- **Optional onboarding** – I can walk your team through it if needed
+
+My goal is to help you ship something solid — without unnecessary overhead.
+
+---
+
+## Why I Work Like This
+
+I live in Lombok, Indonesia — a place that gives me the space to focus, stay active, and work deeply. I care about solving the right problems, building things that hold up, and collaborating with people who appreciate clarity and quality.
+
+If that resonates, we’ll probably work well together.
+
+---
+
+## Let’s Talk
+
+If you have a project in mind — or just want to connect — feel free to reach out at  
+[mremoe@gmail.com](mailto:mremoe@gmail.com).
