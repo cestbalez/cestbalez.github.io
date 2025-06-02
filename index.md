@@ -15,8 +15,8 @@ open_graph:
 <section>
   <p>
     <strong><em>
-      CTO for startups and small businesses, helping you build fast, scalable products – from MVPs to microservices.
-      I offer productized Rails services built with Hotwire & AI, shipped in weeks with clean, maintainable code — so you can move faster without growing your dev team.
+      Technical partner for startups and SMBs, helping you build fast, scalable products – from MVPs to microservices.
+      I offer productized Rails services using Hotwire & AI, shipped in weeks with clean, maintainable code.
     </em></strong>
   </p>
   <a href="mailto:mremoe@gmail.com" class="cta-button">
