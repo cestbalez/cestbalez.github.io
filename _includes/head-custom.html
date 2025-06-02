@@ -14,4 +14,18 @@
 <meta property="og:image:alt" content="{{ page.open_graph.image.caption }}" />
 <meta name="twitter:image:alt" content="{{ page.open_graph.image.caption }}" />
 {% endif %}
+
+{% if page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Magnus S. Remøe",
+  "url": "https://magnusremoe.com",
+  "image": "https://magnusremoe.com/assets/images/logo.webp",
+  "description": "Honest reflections on life, entrepreneurship, and forging your own path."
+}
+</script>
+{% endif %}
+
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">

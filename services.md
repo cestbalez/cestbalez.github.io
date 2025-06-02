@@ -10,7 +10,7 @@ permalink: /services/
 
 <hr class="section-divider">
 
-<h2>API Microservice</h2>
+<h2 id="api-microservice">API Microservice</h2>
 
 <p><strong>Standalone backend services for automations, integrations, and internal systems.</strong><br>
 Built in Rails (API-only), Dockerized, and ready to drop into your stack.</p>
@@ -44,7 +44,7 @@ Built in Rails (API-only), Dockerized, and ready to drop into your stack.</p>
 
 <hr class="section-divider">
 
-<h2>MVP Tool</h2>
+<h2 id="mvp-tool">MVP Tool</h2>
 
 <p><strong>Full-stack Rails apps with UI, admin, and core business logic — built fast and structured to grow.</strong><br>
 Great for early-stage products or internal tools that need to get out of spreadsheets. The end result is a solid, maintainable Rails app your team can own and grow.</p>
@@ -78,7 +78,7 @@ Great for early-stage products or internal tools that need to get out of spreads
 
 <hr class="section-divider">
 
-<h2>Maintenance &amp; Support Plan</h2>
+<h2 id="maintenance--support-plan">Maintenance &amp; Support Plan</h2>
 
 <p><strong>Ongoing support for products I've built — async, minimal, and predictable.</strong></p>
 
@@ -101,7 +101,7 @@ Great for early-stage products or internal tools that need to get out of spreads
 
 <hr class="section-divider">
 
-<h2>How I Work</h2>
+<h2 id="how-i-work">How I Work</h2>
 
 <p class="list-header">Each project comes with a lightweight setup to keep things smooth and efficient:</p>
 

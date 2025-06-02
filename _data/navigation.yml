@@ -1,11 +1,11 @@
-# - title: Posts
-#   url: /posts/
 # - title: Projects
 #   url: /projects/
-- title: Blog
+- title: Home
   url: /
 - title: Services
   url: /services/
+- title: Blog
+  url: /blog/
 - title: About
   url: /about/
 # - title: Search
