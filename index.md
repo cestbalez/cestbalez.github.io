@@ -12,7 +12,7 @@ open_graph:
     caption: Magnus S. Remøe
 ---
 
-<section>
+<section id="intro">
   <p>
     <strong><em>
       Technical partner for startups and SMBs, helping you build fast, scalable products – from MVPs to microservices.
@@ -20,12 +20,20 @@ open_graph:
     </em></strong>
   </p>
   <a href="mailto:mremoe@gmail.com" class="cta-button">
-    Let’s Talk
+    Let's Talk
   </a>
 </section>
 
-
-<section class="services">
+<section id="services">
   <h2>What I Offer</h2>
   {% include services.html %}
+</section>
+
+<section id="about-me">
+  {% include about-me.html %}
+</section>
+
+<section class="experiences">
+  <h2>Where I've Worked</h2>
+  {% include experiences.html %}
 </section>

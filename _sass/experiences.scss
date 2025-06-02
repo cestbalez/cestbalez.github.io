@@ -1,0 +1,49 @@
+.logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  /* tighter spacing between items */
+  padding: 1rem 0;
+}
+
+.logo-item {
+  width: 128px;
+  /* resized to fit smaller containers */
+  text-align: center;
+}
+
+.logo-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.85;
+  transition: all 0.2s ease;
+}
+
+.logo-item img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+.label {
+  font-weight: 500;
+  font-size: 0.95rem;
+  margin-top: 0.5rem;
+}
+
+.label span {
+  display: block;
+  font-size: 0.85rem;
+  color: #666;
+  font-weight: normal;
+}
+
+@media (max-width: 640px) {
+  .logo-item {
+    width: 100%;
+    max-width: 300px;
+  }
+}
