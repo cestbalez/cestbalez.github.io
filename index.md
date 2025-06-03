@@ -19,7 +19,7 @@ open_graph:
       I offer productized Rails services using Hotwire & AI, shipped in weeks with clean, maintainable code.
     </em></strong>
   </p>
-  <a href="mailto:mremoe@gmail.com" class="cta-button">
+  <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
     Let's Talk
   </a>
 </section>
