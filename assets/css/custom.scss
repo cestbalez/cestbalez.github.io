@@ -1,5 +1,5 @@
 ---
----
+--- 
 
 @import 'about-me';
 @import 'experiences';
@@ -20,7 +20,7 @@ section {
   margin-bottom: 4rem;
 }
 
-.layout--home {
+.layout--home, .layout--page.services {
   .cta-button {
     display: block;
     width: max-content;
@@ -33,12 +33,18 @@ section {
     border-radius: 6px;
     transition: background-color 0.2s ease;
   }
-  
+
   .cta-button:hover {
     background-color: #333;
-  }  
+  }
 
   .services {
     margin-top: 4rem;
+  }
+}
+
+.layout--page.services {
+  .cta-button {
+    margin: 0;
   }
 }
