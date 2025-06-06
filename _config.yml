@@ -89,6 +89,20 @@ jekyll_compose:
       categories:
       tags:
 
+# Collections
+collections:
+  use_cases:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  - scope:
+      path: "_use_cases"
+      type: use_cases
+    values:
+      layout: post
+      comments: false
+      share: false
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

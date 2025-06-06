@@ -47,6 +47,13 @@ open_graph:
   {% include testimonials.html %}
 </section>
 
+<section id="use-cases">
+  <h2>Featured work</h2>
+  {%- for entry in site.use_cases limit: 3 -%}
+    {% include entry.html show_image=false %}
+  {%- endfor -%}
+</section>
+
 <section id="experiences">
   <h2>Where I've Worked</h2>
   {% include experiences.html %}
