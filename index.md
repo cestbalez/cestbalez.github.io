@@ -29,11 +29,25 @@ open_graph:
   {% include services.html %}
 </section>
 
+<div class="featured-quote">
+  <p class="quote-text">
+    “Magnus was a great colleague—smart, dependable, and a fast learner… He consistently delivered high-quality work and was easy to collaborate with.”
+  </p>
+  <p class="quote-author">– Even Egeberg, VP of Product Operations at Attensi</p>
+</div>
+
+
 <section id="about-me">
   {% include about-me.html %}
 </section>
 
-<section class="experiences">
+<section id="testimonials">
+  <h2>What People Say</h2>
+
+  {% include testimonials.html %}
+</section>
+
+<section id="experiences">
   <h2>Where I've Worked</h2>
   {% include experiences.html %}
 </section>

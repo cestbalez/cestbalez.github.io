@@ -1,0 +1,51 @@
+#testimonials {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.testimonials {
+  display: flex;
+  flex-direction: column;
+}
+
+.testimonial {
+  border-left: 4px solid #ccc;
+  padding-left: 1.5rem;
+  text-align: left;
+  font-style: italic;
+  color: #333;
+}
+
+.testimonial p {
+  margin-bottom: 0.75rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.testimonial footer {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.featured-quote {
+  max-width: 700px;
+  margin: 3rem auto;
+  padding: 1.5rem 1rem;
+  border-left: 4px solid #ccc;
+  font-style: italic;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+.quote-text {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin-bottom: 0.5rem;
+}
+
+.quote-author {
+  font-size: 0.95rem;
+  font-style: normal;
+  color: #666;
+  text-align: right;
+}
