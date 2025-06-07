@@ -164,6 +164,29 @@ permalink: /services/
 
 <p>No open-ended back-and-forth. Just scoped, maintainable builds that ship.</p>
 
+<hr class="section-divider">
+
+<h2 id="faq">FAQ</h2>
+
+<h4>How does payment work?</h4>
+<p>All projects are fixed-price and paid 50% up front, 50% on delivery. Stripe or bank transfer available.</p>
+
+<h4>What if I need something outside the scope?</h4>
+<p>Additional features or changes can be quoted separately. I’ll always flag scope creep before it becomes a problem.</p>
+
+<h4>Do you work with legacy Rails apps?</h4>
+<p>No — I focus on greenfield projects or clearly scoped backends. I don’t work inside legacy codebases.</p>
+
+<h4>Do you build React/SPA frontends?</h4>
+<p>No. I use Rails with Hotwire, Turbo, and Tailwind to build fast, maintainable UIs without complex frontend stacks.</p>
+
+<h4>Can you help after the project is done?</h4>
+<p>Yes — I offer an optional maintenance plan for minor fixes and tweaks. Major changes can be scoped separately.</p>
+
+<h4>Is it just you, or do you have a team?</h4>
+<p>I lead every project personally. Sometimes I bring in trusted developers to support delivery — but I always own the outcome.</p>
+
+
 <h2>Ready to Build?</h2>
 
 <p>If you want to launch something solid without dragging it out, I'd love to help.<br>
