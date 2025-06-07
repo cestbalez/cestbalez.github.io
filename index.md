@@ -15,8 +15,7 @@ open_graph:
 <section id="intro">
   <p>
     <strong><em>
-      Technical partner for startups and SMBs, helping you build fast, scalable products – from MVPs to microservices.
-      I offer productized Rails services using Hotwire & AI, shipped in weeks with clean, maintainable code.
+      Launch faster with a seasoned technical partner. I build lean MVPs, automation backends, and internal tools — productized Rails services delivered in weeks with clean, scalable architecture.
     </em></strong>
   </p>
   <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
