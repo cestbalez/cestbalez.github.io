@@ -3,8 +3,8 @@ title: "Retreat Estimator - From Lead to Proposal in Minutes"
 excerpt: "To streamline lead qualification and improve response time, we built a public-facing cost estimator for Midstay, paired with an automated proposal request flow. Users get instant pricing and can request a tailored proposal via a guided form. Internally, the team can generate branded proposal PDFs in minutes using prefilled data. This system increased qualified leads and reduced manual sales effort."
 image: 
   path: assets/images/use_cases/proposal.jpg
-  thumbnail: assets/images/use_cases/midstay-estimator-thumb.png
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  thumbnail: assets/images/use_cases/proposal.jpg
+  caption: "Retreat Estimator at [Midstay](https://www.midstay.com)"
 ---
 
 To streamline lead qualification and improve response time, we built a public-facing cost estimator for Midstay, paired with an automated proposal request flow. Users get instant pricing and can request a tailored proposal via a guided form. Internally, the team can generate branded proposal PDFs in minutes using prefilled data.<br>
