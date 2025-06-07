@@ -1,0 +1,22 @@
+.proposal-request {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  /* optional spacing */
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.proposal-request img {
+  max-width: 48%;
+  height: auto;
+  flex-grow: 1;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .proposal-request img {
+    max-width: 100%;
+  }
+}

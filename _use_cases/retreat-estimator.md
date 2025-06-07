@@ -2,7 +2,7 @@
 title: "Retreat Estimator - From Lead to Proposal in Minutes"
 excerpt: "To streamline lead qualification and improve response time, we built a public-facing cost estimator for Midstay, paired with an automated proposal request flow. Users get instant pricing and can request a tailored proposal via a guided form. Internally, the team can generate branded proposal PDFs in minutes using prefilled data. This system increased qualified leads and reduced manual sales effort."
 image: 
-  path: assets/images/use_cases/midstay-estimator.png
+  path: assets/images/use_cases/proposal.jpg
   thumbnail: assets/images/use_cases/midstay-estimator-thumb.png
   caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
@@ -24,20 +24,23 @@ We built a lightweight **retreat cost estimator** and connected it to a streamli
 ### Screens & Flow
 
 #### 1. Public Estimator UI  
-Users input group size, location, preferences — and get real-time cost estimates.  
-`[screenshot: estimator form]`
+<p>Users input group size, location, preferences — and get real-time cost estimates.</p>
+<img src="/assets/images/use_cases/midstay-estimator.png" class="align-center" alt="">
 
 #### 2. CTA → Proposal Request  
-After seeing the estimate, users can click a CTA to request a full proposal.  
-`[screenshot: CTA section]`
+<p>After seeing the estimate, users can click a CTA to request a full proposal.</p>  
+<img src="/assets/images/use_cases/email-cta.png" class="align-center" alt="">
 
 #### 3. Email Form  
-They’re taken to a simple form to submit details like name, company, goals, and preferred dates.  
-`[screenshot: form or form preview]`
+<p>They’re taken to a simple form to submit details like name, company, goals, and preferred dates.</p>
+<div class="proposal-request">
+  <img src="/assets/images/use_cases/contact-form.png" alt=""> 
+  <img src="/assets/images/use_cases/detailed-plan-form.png" alt=""> 
+</div>
 
 #### 4. Internal Proposal Generator  
-Once submitted, the team can generate a proposal with prefilled content based on internal logic.  
-`[screenshot: redacted or dummy-data PDF preview]`
+<p>Once submitted, the team can generate a detailed 20-page proposal, prefilled with content based on internal logic and enriched with manually added data through our proposal flow UI — including itineraries, budget breakdowns, and more.</p>
+<img src="/assets/images/use_cases/proposal-generator-example.jpg" class="align-center" alt=""> 
 
 ---
 
