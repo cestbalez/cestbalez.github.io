@@ -13,7 +13,7 @@ permalink: /services/
 <h2 id="api-microservice">API Microservice</h2>
 
 <p><strong>Standalone backend services for automations, integrations, and internal systems.</strong><br>
-Built in Rails (API-only), Dockerized, and ready to drop into your stack.</p>
+<em>With an API Microservice, you can automate tedious tasks and save your team hours each week</em></p>
 
 <p class="list-header"><strong>What's included:</strong></p>
 <ul>
@@ -39,15 +39,21 @@ Built in Rails (API-only), Dockerized, and ready to drop into your stack.</p>
     <li>Excludes UI, legacy system integration, and ongoing support (unless agreed)</li>
 </ul>
 
+<p><em>Built in Rails (API-only), Dockerized, and ready to drop into your stack.</em></p>
+
 <p><strong>Price:</strong> $3,500<br>
 <strong>Timeline:</strong> 2 weeks</p>
+
+<a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
+  Let's Talk
+</a>
 
 <hr class="section-divider">
 
 <h2 id="mvp-tool">MVP Tool</h2>
 
 <p><strong>Full-stack Rails apps with UI, admin, and core business logic — built fast and structured to grow.</strong><br>
-Great for early-stage products or internal tools that need to get out of spreadsheets. The end result is a solid, maintainable Rails app your team can own and grow.</p>
+<em>The MVP Tool package helps you validate your business idea quickly or launch an internal tool without worrying about code quality or scalability later.</em></p>
 
 <p class="list-header"><strong>What's included:</strong></p>
 <ul>
@@ -65,6 +71,10 @@ Great for early-stage products or internal tools that need to get out of spreads
     <li>Lightweight CRM</li>
 </ul>
 
+<div class="notice">
+    Example: <a href="/use_cases/retreat-estimator">Retreat Estimator - From Lead to Proposal in Minutes</a>
+</div>
+
 <p class="list-header"><strong>Scope &amp; constraints:</strong></p>
 <ul>
     <li>Max 3 core user flows</li>
@@ -73,8 +83,14 @@ Great for early-stage products or internal tools that need to get out of spreads
     <li>Excludes multi-tenancy, mobile layouts, and deep analytics or dashboards</li>
 </ul>
 
+<p><em>Built in Rails, Dockerized, and ready to drop into your stack.</em></p>
+
 <p><strong>Price:</strong> $6,500<br>
 <strong>Timeline:</strong> 4 weeks</p>
+
+<a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
+  Let's Talk
+</a>
 
 <hr class="section-divider">
 
@@ -98,6 +114,10 @@ Great for early-stage products or internal tools that need to get out of spreads
 </ul>
 
 <p><strong>Price:</strong> $1,000/month</p>
+
+<a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
+  Let's Talk
+</a>
 
 <hr class="section-divider">
 
