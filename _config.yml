@@ -42,13 +42,16 @@ footer_links:
   - title: GitHub
     url: https://github.com/cestbalez
     icon: fab fa-github-square
+  - title: Railwave Labs
+    url: https://github.com/railwave-labs
+    icon: fas fa-flask
   - title: Twitter
     url: https://twitter.com/magnusremoe
     icon: fab fa-twitter-square
   - title: LinkedIn
     url: https://www.linkedin.com/in/magnusremoe/
     icon: fab fa-linkedin
-copyright: "This site is made with <3 by me, *straight from the heart.*"
+copyright: "Crafted by Magnus Remøe · Railwave Labs"
 
 # Post settings
 author:
