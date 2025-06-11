@@ -8,7 +8,7 @@ open_graph:
     path: /assets/images/derek-lee.jpg
     caption: "Start with Traffic, Not a Product"
 categories:
-  - Entrepreneurship
+  - entrepreneurship
 tags:
   - idea validation
   - SEO

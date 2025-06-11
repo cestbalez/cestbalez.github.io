@@ -8,13 +8,14 @@ open_graph:
     path: /assets/images/nikko-macaspac.jpg
     caption: "The Burnout of the Ambitious Nomad"
 categories:
-  - Remote Lifestyle
+  - remote-lifestyle
 tags:
-  - digital nomad
-  - work-life balance
+  - digital-nomad
+  - work-life-balance
   - burnout
   - entrepreneurship
-  - lifestyle design
+  - lifestyle-design
+
 ---
 
 This weekend I’ve been sensing a burnout coming. It happens every other month if I take too much on, and at the same time have unforeseen stressful events coming up. This time it started building up while I was travelling to Bali. It made me think about digital nomadism, as I was working full time on the trip. Thankfully, I’ve gotten a lot better at responding to this when it comes up, and hopefully I will manage this time as well.
