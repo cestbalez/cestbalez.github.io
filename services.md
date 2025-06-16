@@ -12,87 +12,49 @@ permalink: /services/
 
 <hr class="section-divider">
 
-<h2 id="api-microservice">API Microservice</h2>
+<h2 id="internal-tool-sprint">Internal Tool Sprint</h2>
 
-<p><strong>Standalone backend services for automations, integrations, and internal systems.</strong><br>
-<em>Save hours each week by offloading internal logic to well-structured backend services that don’t touch your legacy stack.</em></p>
+<p><strong>A scoped internal tool — proposal builder, pricing engine, booking portal, or admin workflow — built in 3 weeks.</strong><br>
+<em>We take care of the backend, admin UI, and business logic so your team saves time and scales ops — without duct-taping spreadsheets or Notion workarounds.</em></p>
 
 <p class="list-header"><strong>What’s included:</strong></p>
 <ul>
-    <li>Custom API endpoints</li>
-    <li>Background jobs</li>
-    <li>Integrations (e.g. Stripe, email, webhooks)</li>
-    <li>GitHub repo with Dockerfile and setup docs</li>
+  <li>Authentication and roles (if needed)</li>
+  <li>Admin interface (Hotwire + Tailwind)</li>
+  <li>Custom business logic</li>
+  <li>1 PDF or email export flow (optional)</li>
+  <li>Staging app + deployment instructions</li>
+  <li>Clean GitHub repo, Dockerized</li>
+</ul>
+
+<p class="list-header"><strong>Popular builds</strong></p>
+<ul>
+  <li><a href="/products/proposal-builder">Proposal Builder</a> — CRM-connected, branded PDF output</li>
+  <li><a href="/products/quoting-engine">Quoting Engine</a> — dynamic pricing, discounts, and export-ready quotes</li>
 </ul>
 
 <p class="list-header"><strong>Example use cases:</strong></p>
 <ul>
-    <li>Lead enrichment API with email & LinkedIn data</li>
-    <li>Internal P&L generator from multiple sources</li>
-    <li>Stripe-enabled webhook processor for quoting</li>
-    <li>Slack alert microservice for internal ops</li>
+  <li>Proposal builder with dynamic pricing and PDF export</li>
+  <li>Internal booking system with approvals</li>
+  <li>Client onboarding tool with workflows and forms</li>
+  <li>Feedback collector with tagging and reports</li>
 </ul>
 
 <p class="list-header"><strong>Scope &amp; constraints:</strong></p>
 <ul>
-    <li>Max 1–2 core flows</li>
-    <li>Max 5 API endpoints</li>
-    <li>Max 2 external integrations</li>
-    <li>Excludes UI, legacy system integration, and ongoing support (unless agreed)</li>
+  <li>Max 3 core user flows</li>
+  <li>Max 5 views/screens</li>
+  <li>Max 1 export flow (PDF or email)</li>
+  <li>Excludes multi-tenancy, deep analytics, mobile optimization, and dashboards</li>
 </ul>
 
-<p><em>Built in Rails (API-only), Dockerized, and ready to deploy or hand off to your dev team.</em></p>
-
-<p><strong>Price:</strong> $3,500<br>
-<strong>Timeline:</strong> 2 weeks</p>
-
-<p><em>Already did a Strategy Sprint? You’ll get $1,000 off this package.</em></p> <!-- ADDED -->
-
-<a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
-  Let's Talk
-</a>
-
-<hr class="section-divider">
-
-<h2 id="mvp-tool">MVP Tool</h2>
-
-<p><strong>Full-stack Rails apps with UI, admin, and core business logic — built fast and structured to grow.</strong><br>
-<em>Launch a clean, functional MVP or internal tool without sacrificing code quality, architecture, or future maintainability.</em></p>
-
-<p class="list-header"><strong>What’s included:</strong></p>
-<ul>
-    <li>Authentication and roles</li>
-    <li>Admin panel (Hotwire + Tailwind)</li>
-    <li>Custom business logic</li>
-    <li>Optional PDF or email flow</li>
-</ul>
-
-<p class="list-header"><strong>Example use cases:</strong></p>
-<ul>
-    <li>Proposal builder with dynamic pricing and export</li>
-    <li>Booking portal with admin approval</li>
-    <li>Client onboarding tool with forms and workflows</li>
-    <li>Feedback app with tagged submissions and reports</li>
-</ul>
-
-<div class="notice">
-    Example: <a href="/use_cases/retreat-estimator">Retreat Estimator - From Lead to Proposal in Minutes</a>
-</div>
-
-<p class="list-header"><strong>Scope &amp; constraints:</strong></p>
-<ul>
-    <li>Max 3 core user flows</li>
-    <li>Max 5 views/screens</li>
-    <li>Max 1 PDF or email flow</li>
-    <li>Excludes multi-tenancy, mobile layouts, and deep analytics or dashboards</li>
-</ul>
-
-<p><em>Built in Rails, Dockerized, and ready to ship or scale.</em></p>
+<p><em>Built in Rails, Dockerized, and ready to ship or hand off to your team. Clear boundaries, clean architecture, and designed to grow over time.</em></p>
 
 <p><strong>Price:</strong> $6,500<br>
-<strong>Timeline:</strong> 4 weeks</p>
+<strong>Timeline:</strong> 3 weeks</p>
 
-<p><em>Already did a Strategy Sprint? You’ll get $1,000 off this package.</em></p> <!-- ADDED -->
+<p><em>Already did a Strategy Sprint? You’ll get $1,000 off this package.</em></p>
 
 <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
   Let's Talk
@@ -117,6 +79,56 @@ permalink: /services/
 
 <p><strong>Price:</strong> $2,500<br>
 <strong>Timeline:</strong> 1 week</p>
+
+<a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
+  Let's Talk
+</a>
+
+<hr class="section-divider">
+
+<h2 id="internal-automation">Internal Automation</h2>
+
+<p><strong>Small backend tools that eliminate manual work in your internal workflows.</strong><br>
+<em>Quoting logic, pricing engines, approval flows, and internal alerts — built in 2 weeks, ready to deploy, and scoped to keep things fast and focused.</em></p>
+
+<p class="list-header"><strong>What’s included:</strong></p>
+<ul>
+  <li>Scoped backend service (Rails API-only)</li>
+  <li>Up to 5 API endpoints</li>
+  <li>Up to 2 external integrations (e.g. Slack, Stripe, Google Sheets)</li>
+  <li>Background jobs (if needed)</li>
+  <li>Clean GitHub repo with Dockerfile and setup docs</li>
+</ul>
+
+<p class="list-header"><strong>Popular builds</strong></p>
+<ul>
+  <li><a href="/products/lead-router">Lead Router</a> — assign leads instantly based on region, product, or workload</li>
+  <li><a href="/products/invoice-consolidator">Invoice Consolidator</a> — extract, structure, and sync vendor invoices to your tools</li>
+</ul>
+
+<p class="list-header"><strong>Example use cases:</strong></p>
+<ul>
+  <li>Slack alerts for inbound leads</li>
+  <li>Internal quoting engine with pricing rules</li>
+  <li>Webhook listener that sends PDF quotes via email</li>
+  <li>P&L generator from Stripe + Xero</li>
+  <li>Lead enrichment via email + LinkedIn data</li>
+</ul>
+
+<p class="list-header"><strong>Scope &amp; constraints:</strong></p>
+<ul>
+  <li>Max 1–2 internal flows</li>
+  <li>No UI (API-only)</li>
+  <li>No legacy system integration</li>
+  <li>No ongoing support (unless added)</li>
+</ul>
+
+<p><em>Built in Rails (API-only), Dockerized, and ready to hand off to your team or deploy yourself.</em></p>
+
+<p><strong>Price:</strong> $3,500<br>
+<strong>Timeline:</strong> 2 weeks</p>
+
+<p><em>Already did a Strategy Sprint? You’ll get $1,000 off this package.</em></p>
 
 <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/magnusremoe/new-meeting'}); return false;" class="cta-button">
   Let's Talk

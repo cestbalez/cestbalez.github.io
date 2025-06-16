@@ -28,6 +28,35 @@ open_graph:
   {% include services.html %}
 </section>
 
+<section id="featured-products" class="featured-products">
+  <h2>Featured Products</h2>
+  <p class="section-subtitle">
+    Scoped builds from my two core offerings — each available as either an Internal Automation or Internal Tool Sprint.
+  </p>
+
+  <div class="product-grid">
+    <div class="product-card">
+      <h3><a href="/products/quoting-engine">Quoting Engine</a></h3>
+      <p class="product-tag">Automation or UI Tool</p>
+      <p class="product-card-desc">
+        Automate pricing logic and generate scoped quotes in minutes — with or without a web interface. Ideal for SaaS, logistics, or agency quoting.
+      </p>
+    </div>
+
+    <div class="product-card">
+      <h3><a href="/products/proposal-builder">Proposal Builder</a></h3>
+      <p class="product-tag">Automation or UI Tool</p>
+      <p class="product-card-desc">
+        Create branded, exportable proposals automatically — from your CRM, pricing system, or internal logic. Great for sales teams who move fast.
+      </p>
+    </div>
+  </div>
+
+  <p class="product-list-cta">
+    <a href="/products" class="text-link">See all scoped builds →</a>
+  </p>
+</section>
+
 <div class="featured-quote">
   <p class="quote-text">
     “Magnus was a great colleague—smart, dependable, and a fast learner… He consistently delivered high-quality work and was easy to collaborate with.”
