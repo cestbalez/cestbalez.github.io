@@ -6,6 +6,8 @@
   url: /services/
 # - title: Use Cases
 #   url: /use_cases/
+- title: Products
+  url: /products/
 - title: Blog
   url: /blog/
 - title: About

@@ -97,6 +97,9 @@ collections:
   use_cases:
     output: true
     permalink: /:collection/:path/
+  products:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
@@ -106,6 +109,14 @@ defaults:
       layout: post
       comments: false
       share: false
+  - scope:
+      path: "_products"
+      type: products
+    values:
+      layout: page
+      comments: false
+      share: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
