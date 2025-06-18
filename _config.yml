@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Building Scalable Products for Startups & SMBs.
 tagline: Building Scalable Products for Startups & SMBs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://magnusremoe.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.magnusremoe.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cestbalez
 github_username:  cestbalez
 linkedin_username:  magnusremoe
@@ -46,7 +46,7 @@ footer_links:
     url: https://github.com/railwave-labs
     icon: fas fa-flask
   - title: Twitter
-    url: https://twitter.com/magnusremoe
+    url: https://twitter.com/cestbalez
     icon: fab fa-twitter-square
   - title: LinkedIn
     url: https://www.linkedin.com/in/magnusremoe/
@@ -56,7 +56,7 @@ copyright: "Crafted by Magnus Remøe · Railwave Labs"
 # Post settings
 author:
   name: Magnus S. Remøe
-  twitter: magnusremoe
+  twitter: cestbalez
   github: cestbalez
   linkedin: magnusremoe
   picture: /assets/images/avatar.jpg
