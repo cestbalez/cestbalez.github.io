@@ -51,6 +51,9 @@ footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/magnusremoe/
     icon: fab fa-linkedin
+  - title: Email
+    url: mailto:mremoe@gmail.com
+    icon: fas fa-envelope
 copyright: "Crafted by Magnus Remøe · Railwave Labs"
 
 # Post settings
