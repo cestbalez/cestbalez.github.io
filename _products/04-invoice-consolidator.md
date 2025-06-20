@@ -1,5 +1,5 @@
 ---
-title: "Innvoice Consolidator"
+title: "Invoice Consolidator"
 permalink: /products/invoice-consolidator/
 ---
 
