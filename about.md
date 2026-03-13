@@ -1,10 +1,8 @@
 ---
-layout: page
-title: About
+layout: post
+title: About me
 permalink: /about/
 ---
-
-## About Me
 
 I'm Magnus, a technical founder, builder, and consultant helping startups ship solid software, fast. I'm currently CTO and co-founder of [Midstay](https://www.midstay.com), and I also take on selected client projects where I can add real value.
 
