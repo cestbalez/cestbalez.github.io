@@ -1,5 +1,5 @@
 ---
 layout: posts
-title: Posts
-permalink: /blog/
+title: Writing
+permalink: /writing/
 ---

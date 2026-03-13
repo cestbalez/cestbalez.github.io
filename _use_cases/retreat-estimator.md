@@ -9,10 +9,10 @@ image:
 
 To streamline lead qualification and improve response time, we built a public-facing cost estimator for Midstay, paired with an automated proposal request flow. Users get instant pricing and can request a tailored proposal via a guided form. Internally, the team can generate branded proposal PDFs in minutes using prefilled data.<br>
 
-This system increased qualified leads and reduced manual sales effort. Moreover, by cutting the proposal turnaround time from several days to just 1–2, we were able to respond while the lead was still warm — increasing conversion rates and strengthening the perceived professionalism of the sales process.
+This system increased qualified leads and reduced manual sales effort. Moreover, by cutting the proposal turnaround time from several days to just 1–2, we were able to respond while the lead was still warm, increasing conversion rates and strengthening the perceived professionalism of the sales process.
 
 ### Problem  
-Handling retreat inquiries manually was slowing down the sales team. Midstay needed a faster way to qualify leads and generate proposals — without the back-and-forth.
+Handling retreat inquiries manually was slowing down the sales team. Midstay needed a faster way to qualify leads and generate proposals, without the back-and-forth.
 
 ---
 
@@ -24,7 +24,7 @@ We built a lightweight **retreat cost estimator** and connected it to a streamli
 ### Screens & Flow
 
 #### 1. Public Estimator UI  
-<p>Users input group size, location, preferences — and get real-time cost estimates.</p>
+<p>Users input group size, location, preferences and get real-time cost estimates.</p>
 <img src="/assets/images/use_cases/midstay-estimator.png" class="align-center" alt="">
 
 #### 2. CTA → Proposal Request  
@@ -39,7 +39,7 @@ We built a lightweight **retreat cost estimator** and connected it to a streamli
 </div>
 
 #### 4. Internal Proposal Generator  
-<p>Once submitted, the team can generate a detailed 20-page proposal, prefilled with content based on internal logic and enriched with manually added data through our proposal flow UI — including itineraries, budget breakdowns, and more.</p>
+<p>Once submitted, the team can generate a detailed 20-page proposal, prefilled with content based on internal logic and enriched with manually added data through our proposal flow UI, including itineraries, budget breakdowns, and more.</p>
 <img src="/assets/images/use_cases/proposal-generator-example.jpg" class="align-center" alt=""> 
 
 ---

@@ -23,6 +23,21 @@ section {
   margin-bottom: 4rem;
 }
 
+.layout--home {
+  #writings, #use-cases {
+    .entry {
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #eee;
+
+      &:last-of-type {
+        border-bottom: none;
+        padding-bottom: 0;
+      }
+    }
+  }
+}
+
 .layout--home, .layout--page.services {
   .cta-button {
     display: block;
